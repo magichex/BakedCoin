@@ -1077,7 +1077,7 @@ int64 static GetBlockValue(int nHeight, int64 nFees)
             {
             nSubsidy = 21000000000000; // 210,000 BAKED Premine for Bounties
    }
-    else if (nHeight < 1440) { nSubsidy = 6000000000; } // 60 BAKED reward for Day 1 86,400 Total
+    else if (nHeight < 1440) { nSubsidy = 6000000000; } // 60 BAKED reward for Day 1 86,340 Total
     else if (nHeight < 2880) { nSubsidy = 5000000000; } // 50 BAKED reward for Day 2 72,000 Total
     else if (nHeight < 4320) { nSubsidy = 4000000000; } // 40 BAKED reward for Day 3 57,600 Total
     else if (nHeight < 5760) { nSubsidy = 3000000000; } // 30 BAKED reward for Day 4 43,200 Total
