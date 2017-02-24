@@ -1,0 +1,9 @@
+Building BakedCoin
+
+See doc/readme-qt.rst for instructions on building BakedCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BakedCoin.
+
+See doc/build-*.txt for instructions on building bakedcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of BakedCoin.
