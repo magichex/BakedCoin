@@ -1071,7 +1071,7 @@ uint256 static GetOrphanRoot(const CBlockHeader* pblock)
 
 int64 static GetBlockValue(int nHeight, int64 nFees)
 {
-    int64 nSubsidy = 1000000000; // 10 Baked Reward
+    int64 nSubsidy = 1000000000; // 10 BAKED Reward
 
 	if(nHeight == 1)
             {
