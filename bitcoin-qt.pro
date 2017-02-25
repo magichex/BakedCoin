@@ -1,7 +1,7 @@
 TEMPLATE = app
 TARGET = bakedcoin-qt
 macx:TARGET = "BakedCoin-Qt"
-VERSION = 0.8.7.5
+VERSION = 1.4.2.0
 INCLUDEPATH += src src/json src/qt
 QT += network
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
