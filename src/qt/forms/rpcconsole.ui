@@ -13,9 +13,6 @@
   <property name="windowTitle">
    <string>BakedCoin - Debug window</string>
   </property>
-  <property name="styleSheet">
-   <string notr="true">background-image: url(:/images/bkg2);</string>
-  </property>
   <layout class="QVBoxLayout" name="verticalLayout_2">
    <item>
     <widget class="QTabWidget" name="tabWidget">
